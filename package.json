@@ -25,6 +25,10 @@
     "chart.js": "^2.8.0",
     "react": "^16.8.5",
     "react-chartjs-2": "^2.7.4",
-    "react-dom": "^16.8.5"
+    "react-dom": "^16.8.5",
+    "react-redux": "^7.0.2",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
   }
 }
